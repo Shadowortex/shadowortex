@@ -1,4 +1,4 @@
-## Hi there 👋
+_"The only thing more terrifying than the cage is not trying to escape it."_
 
 <!--
 **Shadowortex/shadowortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
